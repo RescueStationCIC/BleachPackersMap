@@ -1,0 +1,41 @@
+  # _data/locations.yaml
+  - title: "Cronton College"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zODc1NjIzNjU0MDE3MyIsImxvbiI6Ii0yLjc0NTA2NTI3MzM5MDk2MjYiLCJhbHRfbSI6MCwiaGVpZ2h0X20iOjMwLCJwZXJpb2RfcyI6Miwib3BhY2l0eSI6MC42fQ=="
+    location:
+      latitude: 53.38756236540173
+      longitude: -2.7450652733909626
+  - title: "Spike Island"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zNTIyMTg4MjkxMTE1IiwibG9uIjoiLTIuNzMyOTc4MjM5NjM5NTk5NCIsImFsdF9tIjowLCJoZWlnaHRfbSI6MTAsInBlcmlvZF9zIjowLCJvcGFjaXR5IjowLjZ9"
+    location:
+      latitude: 53.3522188291115
+      longitude: -2.7329782396395994
+  - title: "Widnes Market"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zNTIyMTg4MjkxMTE1IiwibG9uIjoiLTIuNzMyOTc4MjM5NjM5NTk5NCIsImFsdF9tIjowLCJoZWlnaHRfbSI6MiwicGVyaW9kX3MiOjAsIm9wYWNpdHkiOjAuNn0="
+    location:
+      latitude: 53.36816805229984
+      longitude: -2.723906011922479
+  - title: "The Brindley"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zNDEyMjgzMTkyMjk0MyIsImxvbiI6Ii0yLjczMTM0NjM5ODE0NTM4MzYiLCJhbHRfbSI6MCwiaGVpZ2h0X20iOjMsInBlcmlvZF9zIjowLCJvcGFjaXR5IjowLjZ9"
+    location:
+      latitude: 53.34122831922943
+      longitude: -2.7313463981453836
+  - title: "Runcorn Bridge"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zNDQ5MzY4MjIwNjc4NiIsImxvbiI6Ii0yLjczOTE1ODk0MDg0NzQyMyIsImFsdF9tIjotMywiaGVpZ2h0X20iOjEwLCJwZXJpb2RfcyI6MCwib3BhY2l0eSI6MC42fQ=="
+    location:
+      latitude: 53.344033697135814 
+      longitude: -2.7395880943023707
+  - title: "Runcorn Shopping City"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zMjYzOTA2OTAzNjY3NjUiLCJsb24iOiItMi42OTkxNjQ3NTUxMzg1ODkiLCJhbHRfbSI6LTMsImhlaWdodF9tIjoxNSwicGVyaW9kX3MiOjEwLCJvcGFjaXR5IjowLjZ9"
+    location:
+      latitude: 53.326390690366765
+      longitude: -2.699164755138589
+  - title: "The Mersey"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My4zNTE5MzIyNTAwNTI4NiIsImxvbiI6Ii0yLjcyMjcwNTM3ODk1MzQ1MiIsImFsdF9tIjozLCJoZWlnaHRfbSI6NjAsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42fQ=="
+    location: 
+      latitude: 53.35193225005286
+      longitude: -2.722705378953452
+  - title: "Test"
+    url: "https://rescuestationcic.github.io/BleachPackers/?params=eyJsYXQiOiI1My40NDkzMjQwMzA5OTIxNDUiLCJsb24iOiItMi4yNzI0Njc0MzY5NTcxMDIzIiwiYWx0X20iOjAsImhlaWdodF9tIjoxMCwicGVyaW9kX3MiOjEwLCJvcGFjaXR5IjowLjZ9"
+    location:
+      latitude: 53.449324030992145
+      longitude: -2.2724674369571023
