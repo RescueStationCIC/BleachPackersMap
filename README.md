@@ -1,9 +1,9 @@
-# HTNW Documents
+# Bleach Packers Map
 
 This is a Jekyll site. It provides a simple method for publishing documents. 
 On the GitHub Pages infrastructure, hosting is free.  
 Documents are created in Markdown format. When the site is built, they render as HTML and CSS.  
-For example, [here](https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed).  
+For example, [here](https://rescuestationcic.github.io/BleachPackersMap/about).  
 The decision to use this techmology was based on:  
 1. Free. Wordpress site has a cost  
 2. Display in iFrame. Google Sites no longer allow this.  
@@ -18,12 +18,12 @@ The easiest way to maintain the site, is to become a collaborator on this specif
 
 The relavent files to change are all held in 
 
-`HTNWDocuments/external/markdown`
+`/external/markdown`
 
 ### GitHub Pages
 When published on GitHub Pages, the site is available at: 
 
-`https://rescuestationcic.github.io/HTNWDocuments/`
+`https://rescuestationcic.github.io/HTNWDocumentsBleachPackersMap/`
 
 It not advised to change the owning organisation: if this happens the GitHub Pages site address will also change, breaking any links which are dependent on it.
 
@@ -58,7 +58,7 @@ You will download this repository to a folder on your computer, and go to that f
 
 When you want to look at your site locally (on your own computer), Jekyll will start a web-server running on your own computer. 
 You can find out more [here](https://jekyllrb.com/docs/#instructions).  
-Jekyll will notify you that it's running, and provide you with the URL you can find your site at. You'll copy that to your clip-board go to your favourite browser, and paste it in. As mentioned above this will be the URL to the website holding the documenation. Because we made changes to the them to remove any navigation, you will need to provide the full path to your document.
+Jekyll will notify you that it's running, and provide you with the URL you can find your site at. You'll copy that to your clip-board go to your favourite browser, and paste it in. As mentioned above this will be the URL to the website holding the documenation. Because we made changes to the to remove any navigation, you will need to provide the full path to your document.
 Here's an example:
 
 `http://127.0.0.1:4000/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed`
