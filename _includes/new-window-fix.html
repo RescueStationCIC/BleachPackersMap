@@ -27,7 +27,7 @@ var elm = document.getElementsByClassName('jekyll-map')[0];
 // Observe a specific DOM element:
 observeDOM( elm, function(m){ 
     // all hrefs in this element open in a new tab
-    for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+    for(var c = elm.getElementsByTagName("a"), a = 0;a < c.length;a++) {
         var b = c[a];
         b.target = "_blank";
         b.rel = "noopener";
