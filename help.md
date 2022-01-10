@@ -44,7 +44,7 @@ If you're reading this on your **computer**:
 * point your phone's camera at this QR code, to see the AR on your phone's screen. You'll need to orientate yourself so you are facing **West**.
 
 {:refdef: style="text-align: center; width="5%"}
-![info]({{ site.baseimg }}images/qr-code.png){:target="_blank" :width="50%" }
+![info]({{ site.baseimg }}images/qr-code.png){:target="_blank"}{:width="50%" }
 {: refdef}
 
 If you're reading this on your **mobile phone**:
