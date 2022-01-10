@@ -39,16 +39,16 @@ If you'd like to check that all is well with your phone and that you can display
 
 If you're reading this on your **computer**:
 
-* tap [here](https://rescuestationcic.github.io/BleachPackers/?simulate=true&dist=3.66&bearing=180&params=eyJsYXQiOjUzLjM2MjMzMTMxNzI0Nzg2LCJsb24iOi0yLjcyNjg3MjI5NjcxNzAyNSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0=) to view the AR on your screen. 
+* tap [here](https://rescuestationcic.github.io/BleachPackers/?simulate=true&dist=3.66&bearing=180&params=eyJsYXQiOjUzLjM2MjMzMTMxNzI0Nzg2LCJsb24iOi0yLjcyNjg3MjI5NjcxNzAyNSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0=){:target="_blank"}  to view the AR on your screen. 
 
 * point your phone's camera at this QR code, to see the AR on your phone's screen. You'll need to orientate yourself so you are facing **West**.
 
 {:refdef: style="text-align: center; width="5%"}
-![info]({{ site.baseimg }}images/qr-code.png){: width="50%" }
+![info]({{ site.baseimg }}images/qr-code.png){:target="_blank" :width="50%" }
 {: refdef}
 
 If you're reading this on your **mobile phone**:
-* tap [here](https://rescuestationcic.github.io/BleachPackers/?simulate=true&dist=3.66&bearing=90&params=eyJsYXQiOjUzLjM2MjMzMTMxNzI0Nzg2LCJsb24iOi0yLjcyNjg3MjI5NjcxNzAyNSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0=) to view the AR. You'll need to orientate yourself, so you're facing **West**. 
+* tap [here](https://rescuestationcic.github.io/BleachPackers/?simulate=true&dist=3.66&bearing=90&params=eyJsYXQiOjUzLjM2MjMzMTMxNzI0Nzg2LCJsb24iOi0yLjcyNjg3MjI5NjcxNzAyNSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0=){:target="_blank"}  to view the AR. You'll need to orientate yourself, so you're facing **West**. 
 
 [<Back To Map](/BleachPackersMap/map)
 
