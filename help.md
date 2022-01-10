@@ -96,7 +96,13 @@ Here are some pictures of the trip we took, checking our AR was in the right pla
 {:refdef: style="text-align: center; width="5%"}
 ![info]({{ site.baseimg }}images/6_bridge.png){: width="50%" }
 {: refdef}
-... beside the Jubilee Bridge.
+... beside the Jubilee Bridge...
+
+
+{:refdef: style="text-align: center; width="5%"}
+![info]({{ site.baseimg }}images/7_shoppingcity.png){: width="50%" }
+{: refdef}
+... and right next to the cinema (and waffles!).
 
 
 
