@@ -38,7 +38,7 @@ Here are some pictures of the trip we took, checking our AR was in the right pla
 {:refdef: style="text-align: center; width="5%"}
 ![info]({{ site.baseimg }}images/1_cronton.png){: width="50%" }
 {: refdef}
-... in the Cronton College playing feilds...
+... at Cronton Sixth Form College playing fields...
 
 {:refdef: style="text-align: center; width="5%"}
 ![info]({{ site.baseimg }}images/2_market.png){: width="50%" }
