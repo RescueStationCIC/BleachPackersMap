@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>About | Bleach Packers Map</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="About" />
+<meta name="author" content="RescueStation, CIC" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A place to hold the Bleach Packers Map." />
+<meta property="og:description" content="A place to hold the Bleach Packers Map." />
+<link rel="canonical" href="https://rescuestationcic.github.io/BleachPackersMap/about/" />
+<meta property="og:url" content="https://rescuestationcic.github.io/BleachPackersMap/about/" />
+<meta property="og:site_name" content="Bleach Packers Map" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="About" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"RescueStation, CIC"},"headline":"About","description":"A place to hold the Bleach Packers Map.","@type":"WebSite","url":"https://rescuestationcic.github.io/BleachPackersMap/about/","name":"Bleach Packers Map","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/BleachPackersMap/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://rescuestationcic.github.io/BleachPackersMap/feed.xml" title="Bleach Packers Map" /></head>
+<body>
+
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">About</h1>
+  </header>
+
+  <div class="post-content">
+    <h1 id="bleach-packers">Bleach Packers</h1>
+<p>This is the maps site for the <a href="http://www.louchapelle.com/2021/12/the-bleach-packers-augmented-reality-experience-across-halton/">The Bleach Packers – Augmented Reality experience across Halton</a>. 
+The site is hosted for free on <a href="https://developer.mozilla.org/en-us/docs/Learn/Tools_and_testing/GitHub">GitHub</a> <a href="https://guides.github.com/features/pages/">Pages</a> (Thank you!). 
+Documentation is added as <a href="https://guides.github.com/features/mastering-markdown/">markdown</a>.<br />
+The documentation can be easily versioned, using GitHub, and it can be viewed in other websites in an <a href="https://techterms.com/definition/iframe">iFrame</a>.</p>
+
+<h1 id="contact">Contact</h1>
+<p>Please contact <a href="http://www.louchapelle.com/contact/">Lou Chapelle</a> for more information</p>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+    <script>
+var observeDOM = (function(){
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+  return function( obj, callback ){
+    if( !obj || obj.nodeType !== 1 ) return; 
+
+    if( MutationObserver ){
+      // define a new observer
+      var mutationObserver = new MutationObserver(callback)
+
+      // have the observer observe foo for changes in children
+      mutationObserver.observe( obj, { childList:true, subtree:true })
+      return mutationObserver
+    }
+    
+    // browser support fallback
+    else if( window.addEventListener ){
+      obj.addEventListener('DOMNodeInserted', callback, false)
+      obj.addEventListener('DOMNodeRemoved', callback, false)
+    }
+  }
+})()
+
+var elm = document.getElementsByClassName('jekyll-map')[0];
+
+// Observe a specific DOM element:
+observeDOM( elm, function(m){ 
+    // all hrefs in this element open in a new tab
+    for(var c = elm.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        b.target = "_blank";
+        b.rel = "noopener";
+    }
+});
+
+
+</script>
+  </body>
+
+</html>
