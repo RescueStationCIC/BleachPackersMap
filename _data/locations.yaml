@@ -1,36 +1,43 @@
   # _data/locations.yaml
-  - title: "Cronton College"
+  - title: ""
+    marker_popup_html: "<p><b>Cronton College - <a href='https://rescuestationcic.github.io/BleachPackers/?&amp;params=eyJsYXQiOjUzLjM4NzU2MjM2NTQwMTczLCJsb24iOi0yLjc0NTA2NTI3MzM5MDk2MjYsImFsdF9tIjowLCJoZWlnaHRfbSI6MzAsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=='>View The AR</a></b></p><p><b>Bringing bleach packers back to life</b></p><p>Working with artist Lou Chapelle, Cronton College students and young people from The Studio in Widnes re-imagined the bleach packers, iconic workers from the borough's chemical industry past.<br>Through a series of creative workshops the young people created costumes, dance, poetry, and sound. The resulting artwork is a surreal bleach packer’s dream, in which he finds himself transformed, torn between chemical and nature. The AR bleach packers are part of this creative work.</p>"
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM4NzU2MjM2NTQwMTczLCJsb24iOi0yLjc0NTA2NTI3MzM5MDk2MjYsImFsdF9tIjowLCJoZWlnaHRfbSI6MzAsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=="
     location:
       latitude: 53.38756236540173
       longitude: -2.7450652733909626
-  - title: "Spike Island"
+  - title: ""
+    marker_popup_html: "<p><b>Spike Island - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM1MjIxODgyOTExMTUsImxvbiI6LTIuNzMyOTc4MjM5NjM5NTk5NCwiYWx0X20iOjAsImhlaWdodF9tIjoxMCwicGVyaW9kX3MiOjAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0='>View The AR</a></b></p><p><b>A Dangerous Job</b></p><p>Bleach packing damaged worker's health and shortened their lives. Conditions in the chemical works here in West Bank and in Runcorn were awful.</p><p>To make bleach powder crushed lime was spread on the floor of large chambers by workers known as lime dressers. The doors were then sealed and hydrogen chloride gas was blown inside and left to be absorbed by the lime.</p><p>It was the bleach packers’ job to go in while the gas was still in the air to put the bleaching powder into large casks.</p>"
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM1MjIxODgyOTExMTUsImxvbiI6LTIuNzMyOTc4MjM5NjM5NTk5NCwiYWx0X20iOjAsImhlaWdodF9tIjoxMCwicGVyaW9kX3MiOjAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0="
     location:
       latitude: 53.3522188291115 
       longitude: -2.7329782396395994
-  - title: "Widnes Market"
+  - title: ""
+    marker_popup_html: "<p><b>Widnes Market - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM2ODE2ODA1MjI5OTg0LCJsb24iOi0yLjcyMzkwNjAxMTkyMjQ3OSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=='>View The AR</a></b></p><p><b>Bleach for everyday life</b></p><p>Bleach packers no longer work in the borough today, but chlorine and bleach are still vital to our everyday lives.</p><p>Bleach used to be sold in powder form, probably here at the market. In industry its main use was to whiten the cloth produced in nearby mills, speeding up the long process of sun bleaching.</p><p>Chlorine is the main ingredient in bleach and today it is used in everything from paint and plastics to solar cells and memory foam.</p>"
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM2ODE2ODA1MjI5OTg0LCJsb24iOi0yLjcyMzkwNjAxMTkyMjQ3OSwiYWx0X20iOjAsImhlaWdodF9tIjoyLCJwZXJpb2RfcyI6MCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=="
     location:
       latitude: 53.36816805229984
       longitude: -2.723906011922479
-  - title: "The Brindley"
+  - title: ""
+    marker_popup_html: "<p><b>The Brindley - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM0MTIyODMxOTIyOTQzLCJsb24iOi0yLjczMTM0NjM5ODE0NTM4MzYsImFsdF9tIjowLCJoZWlnaHRfbSI6MTAsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=='>View The AR</a></b></p><p><b>How many hours a week?</b></p><p>Bleach packers were well thought of but they had to work long hours in very harsh conditions.</p><p><i>'Bleach Packers in fact were part of the elite, it was a highly regarded job, although in some factories, the men averaged 84 hours a week: 56 hours one week and 112 in another, or 186 a fortnight.'</p><p>'They must also wear goggles over their eyes; and put tallow or grease on the portions of skin that are left exposed.'</i></p>"
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM0MTIyODMxOTIyOTQzLCJsb24iOi0yLjczMTM0NjM5ODE0NTM4MzYsImFsdF9tIjowLCJoZWlnaHRfbSI6MTAsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=="
     location:
       latitude: 53.34087882014635
       longitude: -2.7315259283960174
-  - title: "Silver Jubilee Bridge and Ethelfleda Viaduct"
+  - title: ""
+    marker_popup_html: "<p><b>Mersey Road - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM0NDkzNjgyMjA2Nzg2LCJsb24iOi0yLjczOTE1ODk0MDg0NzQyMywiYWx0X20iOi0xMCwiaGVpZ2h0X20iOjMwLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0='>View The AR</a></b></p><p><b>Bring your own PPE</b></p><p>There were no Health and Safety laws to protect bleach packers in the early years of the chemical industry so they made their own PPE.</p><p><i>'They must inhale through muzzles of up to 20 or 30 layers of flannel and exhale through the nostrils. If they inhale through their nostrils at all, it has a very bad effect, they become gassed, and sometimes have to lie up for two or three days.'<i></p>"    
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM0NDkzNjgyMjA2Nzg2LCJsb24iOi0yLjczOTE1ODk0MDg0NzQyMywiYWx0X20iOi0xMCwiaGVpZ2h0X20iOjMwLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0="
     location:
       latitude: 53.344033697135814 
       longitude: -2.7395880943023707
-  - title: "Runcorn Shopping City"
+  - title: ""
+    marker_popup_html: "<p><b>Trident retail park - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjMyNjM5MDY5MDM2Njc2NSwibG9uIjotMi42OTkxNjQ3NTUxMzg1ODksImFsdF9tIjowLCJoZWlnaHRfbSI6MTUsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=='>View The AR</a></b></p><p><b>At the end of a long day...</b></p><p>Bleach packers obviously couldn't take their work home with them, but they couldn't leave the effects of it at work either. At the end of the day they had to live with the impact it had on their health.</p></p><i>'Most of these men cannot eat any food until they take a stimulant, whiskey or rum.'</p><p>'After working hours the bleach packers used to retreat to their favourite public house, where, not to give offence to other customers in their bizarre working clothes, they drank apart in the 'packers' huts.'</i></p>"
     url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjMyNjM5MDY5MDM2Njc2NSwibG9uIjotMi42OTkxNjQ3NTUxMzg1ODksImFsdF9tIjowLCJoZWlnaHRfbSI6MTUsInBlcmlvZF9zIjoxMCwib3BhY2l0eSI6MC42LCJtb2RlbF9oZWlnaHRfbSI6MS42LCJjX3giOjAsImNfeSI6MCwiY196IjowLCJjX3J4IjowLCJjX3J5IjowLCJjX3J6IjowfQ=="
     location:
       latitude: 53.326390690366765
       longitude: -2.699164755138589
-  - title: "The Mersey"
-    url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM1MTkzMjI1MDA1Mjg2LCJsb24iOi0yLjcyMjcwNTM3ODk1MzQ1MiwiYWx0X20iOjIwLCJoZWlnaHRfbSI6MjAwLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0="
+  - title: ""
+    marker_popup_html: "<p><b>The Mersey - <a href='https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM1MTkzMjI1MDA1Mjg2LCJsb24iOi0yLjcyMjcwNTM3ODk1MzQ1MiwiYWx0X20iOjIwLCJoZWlnaHRfbSI6MjAwLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0='>View The AR</a></b></p><p><b>Bleaching the borough</b></p><p>In Halton bleach production was part of the alkali making process. It produced hydrogen chloride gas and the chlorine was extracted from this to make bleaching powder.</p><p>The fumes from this chemical process had a terrible impact on the health of the workers and damaged the environment across the borough as well.</p><p>Regeneration of the area today has reversed much of this damage and we now have cleaner methods of producing the vital chemicals that people need.</p>"
+    url: "https://rescuestationcic.github.io/BleachPackers/?&params=eyJsYXQiOjUzLjM1MTkzMjI1MDA1Mjg2LCJsb24iOi0yLjcyMjcwNTM3ODk1MzQ1MiwiYWx0X20iOjIwLCJoZWlnaHRfbSI6MjAwLCJwZXJpb2RfcyI6MTAsIm9wYWNpdHkiOjAuNiwibW9kZWxfaGVpZ2h0X20iOjEuNiwiY194IjowLCJjX3kiOjAsImNfeiI6MCwiY19yeCI6MCwiY19yeSI6MCwiY19yeiI6MH0="    
     location: 
       latitude: 53.35193225005286
       longitude: -2.722705378953452
